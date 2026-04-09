@@ -178,10 +178,10 @@
   {
     "id": "spotify",
     "type": "music",
-    "name": "Spotify",
-    "subtitle": "Play music from Spotify on Echo",
+    "name": "Doki Spotify",
+    "subtitle": "Play music from Spotify on Doki Play",
     "iconUrl": "https://files.catbox.moe/212opw.png",
-    "updateUrl": "https://api.github.com/repos/brahmkshatriya/echo-spotify-extension/releases"
+    "updateUrl": "https://api.github.com/repos/melodiabl/Spotify-extension-doki/releases"
   },
   {
     "id": "tunein",
